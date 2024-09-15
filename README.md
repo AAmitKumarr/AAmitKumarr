@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/AAmitKumarr1/AD_PS)
+  - [Active Directory Lab Setup](https://github.com/AAmitKumarr1/AD_PS](https://github.com/AAmitKumarr/Active-Directory/tree/main)
 
 <h2>👨‍💻 Certifications:</h2>
 
